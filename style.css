@@ -154,8 +154,11 @@ p {
     margin-top: 50px;
     text-align: center;
     opacity: 0;
-    -webkit-animation: moveIn 1s 3.1s ease forwards;
+    /* -webkit-animation: moveIn 1s 3.1s ease forwards; */
     animation: moveIn 1s 3.1s ease forwards;
+}
+.profile-card{
+  padding: 12px 20px 20px 20px;
 }
 .profile-social-links {
     width: 218px;        
